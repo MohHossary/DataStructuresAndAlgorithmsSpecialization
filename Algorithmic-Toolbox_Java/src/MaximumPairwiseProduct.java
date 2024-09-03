@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main2 {
+public class MaximumPairwiseProduct {
 
     int[] arr = new int[]{2, 5, 10, 0, 3, 7, 10, 9, 10};
 
@@ -51,7 +51,7 @@ public class Main2 {
     }
 
     public static void main(String[] args) {
-        Main2 obj = new Main2();
+        MaximumPairwiseProduct obj = new MaximumPairwiseProduct();
         System.out.println(Arrays.toString(max_product_2indices(obj.arr)));
         System.out.println(Arrays.toString(max_product_XIndices(obj.arr, 3)));
     }

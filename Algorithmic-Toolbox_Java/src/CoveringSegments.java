@@ -7,12 +7,10 @@ public class CoveringSegments {
         for (int i = 0; i < segments.length; i++) {
             points[i] = i;
         }
-        Vector<Segment> finished_segments = new Vector<Segment>();
         for (int point : points) {
             int amount_of_lines_covered = 0;
-            for (int i = 0; i < segments.length; i++) {
-                Segment segment = segments[i];
-                if (!finished_segments.contains(segment)  && segment.start <= point && point <= segment.end) {
+            for (Segment segment : segments) {
+                if (segment.start <= point && point <= segment.end) {
                     amount_of_lines_covered++;
                 }
             }
