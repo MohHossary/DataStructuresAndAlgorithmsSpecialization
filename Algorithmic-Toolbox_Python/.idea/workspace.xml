@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdbcbc18-0df3-4b8d-af04-b38e541c3c8e" name="Changes" comment="did a run test">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cdbcbc18-0df3-4b8d-af04-b38e541c3c8e" name="Changes" comment="Even More cleaning up" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1749867485086</updated>
       <workItem from="1749867487336" duration="291000" />
-      <workItem from="1749867801125" duration="678000" />
+      <workItem from="1749867801125" duration="1028000" />
     </task>
     <task id="LOCAL-00001" summary="Cleaning up my workspace">
       <option name="closed" value="true" />
@@ -99,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749868334366</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Even More cleaning up">
+      <option name="closed" value="true" />
+      <created>1749868547753</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749868547753</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +115,8 @@
     <MESSAGE value="Cleaning up my workspace" />
     <MESSAGE value="Adding a .gitignore (don't know why I did not do this sooner)" />
     <MESSAGE value="did a run test" />
-    <option name="LAST_COMMIT_MESSAGE" value="did a run test" />
+    <MESSAGE value="Even More cleaning up" />
+    <option name="LAST_COMMIT_MESSAGE" value="Even More cleaning up" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithmic_Toolbox_Python$APlusB.coverage" NAME="APlusB Coverage Results" MODIFIED="1749868289485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
